@@ -1,7 +1,5 @@
 <div align="center">
 
-**English** · [Русский](README.ru.md)
-
 # dan1lazz
 
 *vibe coder — but the vibes compile*
