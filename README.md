@@ -69,14 +69,12 @@
 ## Contact
 
 ```text
-→ telegram   @your_username
-→ email      you@example.com
+→ telegram   @dan1lazz
+→ email      kirilindaniel@yandex.ru
 ```
 
 Or just open an issue in either repo — bug reports and hardware reports are the best way in.
 
 <div align="center">
-
-**English** · [Русский](README.ru.md)
 
 </div>
